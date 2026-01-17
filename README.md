@@ -10,7 +10,7 @@ Bu proje öğrenme sürecimin başlarında geliştirildiği için **Klasik Andro
 
 ## Not
 Bu proje **akademik bir prototip** olup geliştirme süreci tamamlanmıştır.
-Güncel projelerimde (örn: **Aether AI**) modern Android geliştirme pratikleri olan:
+Güncel projelerimde  modern Android geliştirme pratikleri olan:
 * **Jetpack Compose**
 * **MVVM Architecture**
 * **Clean Architecture**
